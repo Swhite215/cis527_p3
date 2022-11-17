@@ -1,0 +1,24 @@
+www.ford.com
+ 1  router.home (192.168.1.1)  16.388 ms  4.277 ms  4.720 ms
+ 2  client-35-128-21-4.rocketfiber.net (35.128.21.3)  9.786 ms  7.531 ms  5.830 ms
+ 3  35.128.0.48 (35.128.0.48)  10.783 ms  7.010 ms  6.318 ms
+ 4  209.165.240.8 (209.165.240.8)  17.145 ms  12.892 ms  12.605 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  a23-61-127-81.deploy.static.akamaitechnologies.com (23.61.127.81)  16.448 ms  12.158 ms  12.850 ms
+
+
+www.ford.com
+ 1  router.home (192.168.1.1)  12.195 ms  4.098 ms  6.175 ms
+ 2  client-35-128-21-4.rocketfiber.net (35.128.21.3)  9.620 ms  5.284 ms  5.298 ms
+ 3  35.128.0.48 (35.128.0.48)  9.036 ms  7.134 ms  8.968 ms
+ 4  209.165.240.8 (209.165.240.8)  15.930 ms  15.461 ms  14.181 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  a23-61-127-81.deploy.static.akamaitechnologies.com (23.61.127.81)  18.195 ms  12.390 ms  12.071 ms
+FINISHED RUN 
+
