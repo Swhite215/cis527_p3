@@ -15,12 +15,15 @@ eight="network-tools.com: 141.193.213.11" # Canada
 # Array of IP Addresses
 arr=("www.ford.com")
 
+# Date
+today=`date +%m-%d-%Y`
+
 # Loop to Run Trace Route
 for element in "${arr[@]}";
 do
-    echo ${arr[@]} >> tr_logs.txt
-    traceroute ${arr[@]} >> tr_logs.txt
-    echo "FINISHED RUN \n" >> tr_logs.txt
+    echo ${arr[@]} >> tr_logs_$today.txt
+    traceroute ${arr[@]} >> tr_logs_$today.txt
+    echo "FINISHED RUN \n" >> tr_logs_$today.txt
 done
 
 exit 0
