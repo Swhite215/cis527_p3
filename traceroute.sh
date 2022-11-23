@@ -11,6 +11,8 @@ five="www.imma.ie: 172.67.164.21" # Irish Art Museum
 six="nemox.net: 83.137.41.11" #Austria
 seven="registro.br: 200.160.2.3" # Brazil
 eight="network-tools.com: 141.193.213.11" # Canada
+nine="www.channelstv.com: 172.67.71.240" # Nigeria
+ten="www.newsnow.co.uk: 213.146.191.132"
 
 # Array of IP Addresses
 arr=("www.ford.com")
